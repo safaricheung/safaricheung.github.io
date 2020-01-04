@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Alan的小纸箱</title>
   
-  
+  <subtitle>Safari Cheung</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sin720.github.io/"/>
