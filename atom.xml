@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>刘新伟的博客</title>
+  <title>Alan的小纸箱</title>
   
-  <subtitle>知者乐水，仁者乐山</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sin720.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://sin720.github.io/</id>
   
   <author>
-    <name>刘新伟</name>
+    <name>黎明前线Alan</name>
     
   </author>
   
